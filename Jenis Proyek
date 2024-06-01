@@ -1,0 +1,11 @@
+Pustaka yang akan saya gunakan: 
+  flask = "*"
+  jinja2 = "*"
+  requests = "*"
+  flask-sqlalchemy = "*"
+  sqlalchemy = "*"
+Referensi yang berguna:
+  Notta.ai
+  Transkriptor
+Artikel panduan yang akan membantu saya selama pengembangan Sebuah komentar singkat yang akan membantu Anda mengingat tentang apa artikel tersebut:
+  https://ceur-ws.org/Vol-2824/paper1.pdf
